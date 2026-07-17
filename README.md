@@ -29,7 +29,7 @@
 ## リンク
 
 - **Web**: https://zephris.app
-- **Zenn**: （ZennプロフィールURLをここに）
+- **Zenn**: https://zenn.dev/zephris
 - **X**: https://x.com/zephris_app
 - **Note**: https://note.com/zephris_app
 
